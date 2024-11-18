@@ -17,9 +17,7 @@ if (x > 0)
 }else
 {
     imaginary = sqrt(-x)/(2*a);
-
     printf("\nthe root1 is %.2f + %.2fi \nthe root2 is %.2f %.2fi.\n", y, imaginary, y, - imaginary);
-
 }
 return 0;
 }
